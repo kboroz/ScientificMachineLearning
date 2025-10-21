@@ -1,4 +1,4 @@
-## Numrische Mathematik
+## Numerische Mathematik
 
 https://www.youtube.com/playlist?list=PLfk0Dfh13pBPSe2P_BaTvD5cwmeVChz1U
 
