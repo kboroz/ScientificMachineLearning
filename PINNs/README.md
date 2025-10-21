@@ -1,3 +1,7 @@
+## PINNS: Learning Physics Informed ML
+
+https://www.youtube.com/playlist?list=PLSbVktDWdy9T2hBo5s8Rq42nMpGRekJ75
+
 ## DeepXDE Masterclass
 
 https://www.youtube.com/playlist?list=PLM7DTyYjZGuLYDLV9g7AqkEatySe-lAqG
