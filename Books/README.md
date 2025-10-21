@@ -28,4 +28,8 @@ https://github.com/dynamicslab/databook_python
 
 https://physicsbaseddeeplearning.org/intro.html
 
+## Computational Seismology: A Practical Introduction
+
+https://global.oup.com/academic/product/computational-seismology-9780198717409?cc=de&lang=en&
+
 
