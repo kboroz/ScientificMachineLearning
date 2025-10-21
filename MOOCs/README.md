@@ -25,3 +25,6 @@ https://imoox.at/course/dem2025
 
 https://imoox.at/course/demAdvanced
 
+## 7) Practical Numerical Methods with Python
+
+https://github.com/numerical-mooc/numerical-mooc/tree/master
