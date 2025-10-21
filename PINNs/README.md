@@ -26,3 +26,7 @@ https://video.ethz.ch/lectures/d-math/2024/spring/401-4656-21L
 
 https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa
 
+## PINNs - Tech Course
+
+https://www.youtube.com/playlist?list=PLculrkBWBFaAeFIBKzdghr3OnhyyfyAlO
+
