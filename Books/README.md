@@ -16,6 +16,14 @@ https://link.springer.com/book/10.1007/978-3-031-46768-4
 
 https://link.springer.com/book/10.1007/978-3-319-52462-7
 
+## Data-Driven Science and Engineering Machine Learning, Dynamical Systems, and Control
+
+https://www.cambridge.org/highereducation/books/data-driven-science-and-engineering/6F9A730B7A9A9F43F68CF21A24BEC339#contents
+
+https://faculty.washington.edu/sbrunton/DataBookV2.pdf
+
+https://github.com/dynamicslab/databook_python
+
 ## Physics-based Deep Learning Book
 
 https://physicsbaseddeeplearning.org/intro.html
