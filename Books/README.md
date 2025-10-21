@@ -28,6 +28,4 @@ https://github.com/dynamicslab/databook_python
 
 https://physicsbaseddeeplearning.org/intro.html
 
-## PINNS: Learning Physics Informed ML
 
-https://www.youtube.com/playlist?list=PLSbVktDWdy9T2hBo5s8Rq42nMpGRekJ75
