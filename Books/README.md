@@ -36,4 +36,6 @@ https://global.oup.com/academic/product/computational-seismology-9780198717409?c
 
 https://link.springer.com/book/10.1007/978-3-031-49892-3
 
+https://www.rbnicsproject.org/tutorials.html
+
 
