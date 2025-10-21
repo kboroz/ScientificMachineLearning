@@ -10,10 +10,3 @@ https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
 
 https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s
 
-## DeepXDE Masterclass
-
-https://www.youtube.com/playlist?list=PLM7DTyYjZGuLYDLV9g7AqkEatySe-lAqG
-
-## Physics-Aware Deep Learning
-
-https://www.youtube.com/playlist?list=PLqNNYrlmv01AnFNrjfQBqXB7saZfh2Hi7
