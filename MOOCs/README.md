@@ -1,6 +1,5 @@
-# We focus mainly on course 2 + !!!
+# We focus mainly on course 2 + 4 !!!
 
--/-/-/-/-/-/-/-/-/-/-/-/-
 
 # 1) Introduction to Python for Scientific Computing
 
