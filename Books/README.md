@@ -15,3 +15,11 @@ https://link.springer.com/book/10.1007/978-3-031-46768-4
 ## Solving PDEs in Python: The FEniCS Tutorial
 
 https://link.springer.com/book/10.1007/978-3-319-52462-7
+
+## Physics-based Deep Learning Book
+
+https://physicsbaseddeeplearning.org/intro.html
+
+## PINNS: Learning Physics Informed ML
+
+https://www.youtube.com/playlist?list=PLSbVktDWdy9T2hBo5s8Rq42nMpGRekJ75
