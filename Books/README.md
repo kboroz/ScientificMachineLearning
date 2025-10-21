@@ -32,4 +32,8 @@ https://physicsbaseddeeplearning.org/intro.html
 
 https://global.oup.com/academic/product/computational-seismology-9780198717409?cc=de&lang=en&
 
+##  Real Time Reduced Order Computational Mechanics - Parametric PDEs Worked Out Problems
+
+https://link.springer.com/book/10.1007/978-3-031-49892-3
+
 
