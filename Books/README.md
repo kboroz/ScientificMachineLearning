@@ -4,6 +4,10 @@ https://link.springer.com/book/10.1007/978-3-030-16877-3
 
 https://github.com/slgit/prog4comp_2/tree/master
 
+## Python Computations in Science and Engineering
+
+https://kitchingroup.cheme.cmu.edu/pycse/intro.html
+
 ## Numerical Methods: An Inquiry-Based Approach With Python
 
 https://numericalmethodssullivan.github.io/index.html
