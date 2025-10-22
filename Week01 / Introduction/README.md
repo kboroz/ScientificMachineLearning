@@ -31,3 +31,7 @@ https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html
 with the Videoportal of ETH Zürich:
 
 https://video.ethz.ch/lectures/d-math/2024/spring/401-4656-21L
+
+and GitHub repository:
+
+https://github.com/camlab-ethz/AI_Science_Engineering
