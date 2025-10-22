@@ -6,7 +6,7 @@ https://www.geophysik.uni-muenchen.de/~igel/Lectures/Book/IGPP2022Videos/Day01%2
 
 https://github.com/heinerigel/IGPP_ShortCourse_2022/tree/main/Course_Material/01_Introduction/Notebooks
 
-## Watch the first two videos from the ETH zürich course on Deep Learning:
+## Watch the first two videos from the ETH Zürich course on Deep Learning:
 
 https://video.ethz.ch/lectures/d-math/2024/spring/401-4656-21L/v/NGdOV_cNJdB
 
