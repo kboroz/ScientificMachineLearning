@@ -24,5 +24,17 @@ https://dictionary.helmholtz-uq.de/content/landing_page.html
 
 https://kth-nek5000.github.io/UQit/
 
+## Introduction to Uncertainty Quantification
+
+https://github.com/PredictiveScienceLab/uq-course
+
+https://github.com/PredictiveScienceLab/uq-course/tree/SP2020
+
+## Machine Learning Beyond Point Predictions: Uncertainty Quantification
+
+https://rafaelizbicki.com/uq4ml/
+
+https://github.com/rizbicki/UQ4ML/
+
 
 
