@@ -1,4 +1,4 @@
-## Our course consisty mainly of two parts:
+## Our course consists mainly of two parts:
 
 # 1) 
 
