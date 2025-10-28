@@ -54,9 +54,3 @@ https://github.com/PredictiveScienceLab/data-analytics-se
 
 https://github.com/PredictiveScienceLab/advanced-scientific-machine-learning/tree/main
 
-https://github.com/PredictiveScienceLab/uq-course
-
-
-
-
-
