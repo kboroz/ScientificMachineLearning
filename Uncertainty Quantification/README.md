@@ -18,7 +18,7 @@ https://uqpyproject.readthedocs.io/en/latest/
 
 https://probnum.readthedocs.io/en/latest/index.html
 
-## Uncertainpy is a python toolbox for uncertainty quantification
+## Uncertainpy (a python toolbox for uncertainty quantification)
 
 https://uncertainpy.readthedocs.io/en/latest/index.html
 
