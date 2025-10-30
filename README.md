@@ -18,6 +18,10 @@ https://www.geophysik.uni-muenchen.de/~igel/Lectures/Book/IGPP2022Videos/
 
 https://www.geophysik.uni-muenchen.de/~igel/Lectures/Book/SS22/
 
+As well as:
+
+https://github.com/spin-itn/SPIN-SC1/tree/main
+
 ----------------------------------------------------------------------------------------------
 
 ## Introduction to Uncertainty Quantification
