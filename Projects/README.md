@@ -24,3 +24,4 @@ https://mia_jinns.gitlab.io/jinns/
 
 ## FEMBike - Finite Element Method applied to a bike structure
 
+https://github.com/PieroPaialungaAI/FEMBike
