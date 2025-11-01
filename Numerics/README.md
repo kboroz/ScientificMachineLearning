@@ -13,3 +13,7 @@ https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
 ## Is the Future of Linear Algebra.. Random?
 
 https://www.youtube.com/watch?v=6htbyY3rH1w
+
+## RMT + NLA
+
+https://www.youtube.com/playlist?list=PLCvalHOi_pas_fwOM9sR6Cca80lDI8s-8
