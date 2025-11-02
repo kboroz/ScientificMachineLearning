@@ -18,6 +18,12 @@ https://towardsdatascience.com/when-physics-meets-finance-using-ai-to-solve-blac
 
 https://github.com/PieroPaialungaAI/BlackScholesPINN
 
+https://github.com/sischei/SummerSchool_DL_Turin_2025/blob/main/day2/Scheidegger/slides/01_Intro_to_PINNs.pdf
+
+https://github.com/sischei/SummerSchool_DL_Turin_2025/blob/main/day2/Scheidegger/code/03_Black_Scholes_PINNs.ipynb
+
+
+
 ## jinns is a Python package for physics-informed neural networks (PINNs) in the JAX ecosystem
 
 https://mia_jinns.gitlab.io/jinns/
