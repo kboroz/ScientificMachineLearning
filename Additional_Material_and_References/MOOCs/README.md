@@ -1,5 +1,4 @@
-# We focus mainly on course 2 + 4 !!!
-
+# START YOUR JOURNEY HERE:
 
 ## 1) Introduction to Python for Scientific Computing
 
@@ -28,3 +27,15 @@ https://imoox.at/course/demAdvanced
 ## 7) Practical Numerical Methods with Python
 
 https://github.com/numerical-mooc/numerical-mooc/tree/master
+
+## 8) AI in the Sciences and Engineering (2024)
+
+https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html
+
+with the Videoportal of ETH Zürich:
+
+https://video.ethz.ch/lectures/d-math/2024/spring/401-4656-21L
+
+and GitHub repository:
+
+https://github.com/camlab-ethz/AI_Science_Engineering
