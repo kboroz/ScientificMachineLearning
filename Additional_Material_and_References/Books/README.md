@@ -48,4 +48,7 @@ https://link.springer.com/book/10.1007/978-3-031-49892-3
 
 https://www.rbnicsproject.org/tutorials.html
 
+## PINN with Python: An Introduction
+
+https://sci-en-tech.com/Books/index.php/eBook/catalog/book/19
 
