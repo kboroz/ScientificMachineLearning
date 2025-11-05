@@ -1,4 +1,4 @@
-## Watch the video(s) from the ETH Zürich:
+## Watch the video(s):
 
 https://video.ethz.ch/lectures/d-math/2024/spring/401-4656-21L/v/NGdOV_cNJdB
 
