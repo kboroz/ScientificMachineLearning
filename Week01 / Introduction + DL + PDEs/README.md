@@ -1,4 +1,4 @@
-## Watch the videos from the ETH Zürich course on Deep Learning:
+## Watch the videos from the ETH Zürich:
 
 https://video.ethz.ch/lectures/d-math/2024/spring/401-4656-21L/v/NGdOV_cNJdB
 
