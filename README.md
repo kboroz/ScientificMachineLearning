@@ -24,20 +24,6 @@ https://github.com/spin-itn/SPIN-SC1/tree/main
 
 ----------------------------------------------------------------------------------------------
 
-## Introduction to Uncertainty Quantification
-
-https://www.coursera.org/learn/introduction-to-uncertainty-quantification
-
-## Alternative resources:
-
-## Online graduate-level course in Uncertainty Quantification (UQ)
-
-https://aerodynamics.lr.tudelft.nl/~rdwight/cfdiv/index.html
-
-## Short Course on Uncertainty Quantification
-
-https://github.com/SURGroup/MSEE_UQ_Short_Course
-
 # 2)
 
 ## AI in the Sciences and Engineering (2024)
