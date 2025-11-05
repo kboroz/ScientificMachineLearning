@@ -1,3 +1,5 @@
+# Fluid Dynamics
+
 ## Parametric PDEs Worked Out Problems
 
 https://link.springer.com/book/10.1007/978-3-031-49892-3
@@ -12,6 +14,8 @@ https://github.com/mathLab/PINA
 
 https://github.com/chaos-polymtl/bio-pinn
 
+# Finance
+
 ## When Physics Meets Finance: Using AI to Solve Black-Scholes
 
 https://towardsdatascience.com/when-physics-meets-finance-using-ai-to-solve-black-scholes/
@@ -24,10 +28,23 @@ https://github.com/sischei/SummerSchool_DL_Turin_2025/blob/main/day2/Scheidegger
 
 
 
-## jinns is a Python package for physics-informed neural networks (PINNs) in the JAX ecosystem
-
-https://mia_jinns.gitlab.io/jinns/
+# Engineering
 
 ## FEMBike - Finite Element Method applied to a bike structure
 
 https://github.com/PieroPaialungaAI/FEMBike
+
+## Physics-informed neural networks (PINNs) versus finite elements for solving PDEs in continuum mechanics of solids.
+
+https://github.com/ericstewart36/pinnsforsolids/tree/main
+
+## Physics-Informed-Neural-Network-for-Elastodynamic-problems
+
+https://github.com/luv-bansal/Physics-Informed-Neural-Network-for-Elastodynamic-problems
+
+
+# JAX Frameworks
+
+## jinns is a Python package for physics-informed neural networks (PINNs) in the JAX ecosystem
+
+https://mia_jinns.gitlab.io/jinns/
