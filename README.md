@@ -26,14 +26,11 @@ https://github.com/spin-itn/SPIN-SC1/tree/main
 
 # 2)
 
-## AI in the Sciences and Engineering (2024)
+## Physics Informed Neural Networks (PINNs) by elastropy
 
-https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html
+https://www.youtube.com/playlist?list=PLM7DTyYjZGuLmg3f6j40fEF18jyQmYsC2
 
-with the Videoportal of ETH Zürich:
+## DeepXDE notebook(s):
 
-https://video.ethz.ch/lectures/d-math/2024/spring/401-4656-21L
+https://deepxde.readthedocs.io/en/latest/index.html#
 
-and GitHub repository:
-
-https://github.com/camlab-ethz/AI_Science_Engineering
