@@ -6,9 +6,7 @@ https://link.springer.com/book/10.1007/978-3-031-49892-3
 
 https://www.rbnicsproject.org/tutorials.html
 
-## PiNA - Solving Scientific Problems with Machine Learning, Intuitively
-
-https://github.com/mathLab/PINA
+# Life Science
 
 ## biopinn - Physics-Informed Neural Network to predict the reaction rates of a BIOdiesel process
 
@@ -26,9 +24,7 @@ https://github.com/sischei/SummerSchool_DL_Turin_2025/blob/main/day2/Scheidegger
 
 https://github.com/sischei/SummerSchool_DL_Turin_2025/blob/main/day2/Scheidegger/code/03_Black_Scholes_PINNs.ipynb
 
-
-
-# Engineering
+# Structural Engineering
 
 ## FEMBike - Finite Element Method applied to a bike structure
 
@@ -42,9 +38,22 @@ https://github.com/ericstewart36/pinnsforsolids/tree/main
 
 https://github.com/luv-bansal/Physics-Informed-Neural-Network-for-Elastodynamic-problems
 
+# Electrical Engineering
 
-# JAX Frameworks
+## Fiber Optical Sensors
+
+ask Midhun
+
+# Environment: Physics-Aware Regional km-Scale Ocean Surface Emulator:
+
+ask Janika
+
+# Frameworks
 
 ## jinns is a Python package for physics-informed neural networks (PINNs) in the JAX ecosystem
 
 https://mia_jinns.gitlab.io/jinns/
+
+## PiNA - Solving Scientific Problems with Machine Learning, Intuitively
+
+https://github.com/mathLab/PINA
