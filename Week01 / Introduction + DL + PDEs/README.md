@@ -8,5 +8,5 @@ https://video.ethz.ch/lectures/d-math/2024/spring/401-4656-21L/v/K87ZH26N-9x
 
 ## Check the Slides !!
 
-## Prepare the Notebook !!
+## Prepare the Notebook(s) !!
 
