@@ -48,6 +48,10 @@ ask Midhun
 
 ask Janika
 
+# Geodynamics
+
+https://geodynamics.org/
+
 # Frameworks
 
 ## jinns is a Python package for physics-informed neural networks (PINNs) in the JAX ecosystem
