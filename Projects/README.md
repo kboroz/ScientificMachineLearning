@@ -48,6 +48,24 @@ ask Midhun
 
 ask Janika
 
+# Weather Forcasts:
+
+https://open.hpi.de/courses/weatherpredictions2025
+
+https://www.heise.de/news/WeatherNext-2-Google-DeepMind-stellt-neues-KI-Wettermodell-vor-11082672.html
+
+https://www.heise.de/news/KI-schlaegt-Meteorologen-DeepMind-hatte-in-der-Hurrikan-Saison-die-Nase-vorn-11067107.html
+
+# Weather Data
+
+https://meteostat.net/de/station/10338?t=2017-01-01/2025-08-01
+
+https://open-meteo.com/
+
+https://www.pegelonline.wsv.de/gast/start
+
+https://opensensemap.org/
+
 # Geodynamics
 
 https://geodynamics.org/
