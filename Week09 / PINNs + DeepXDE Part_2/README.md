@@ -1,6 +1,14 @@
 ## Watch the video(s):
 
-https://www.youtube.com/playlist?list=PLM7DTyYjZGuLmg3f6j40fEF18jyQmYsC2
+https://www.youtube.com/watch?v=h1HF3bctoxk&list=PLM7DTyYjZGuLmg3f6j40fEF18jyQmYsC2&index=6
+
+https://www.youtube.com/watch?v=Nsf5bmI54oc&list=PLM7DTyYjZGuLmg3f6j40fEF18jyQmYsC2&index=7
+
+https://www.youtube.com/watch?v=sKKrXUrMUC0&list=PLM7DTyYjZGuLmg3f6j40fEF18jyQmYsC2&index=8
+
+https://www.youtube.com/watch?v=VP0YuXeQYmo&list=PLM7DTyYjZGuLmg3f6j40fEF18jyQmYsC2&index=9
+
+https://www.youtube.com/watch?v=0Q10CwRhsDo&list=PLM7DTyYjZGuLmg3f6j40fEF18jyQmYsC2&index=10
 
 ## Prepare the notebook(s):
 
