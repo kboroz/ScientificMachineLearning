@@ -10,4 +10,6 @@ https://www.youtube.com/watch?v=7Es1ZWiMq0Y&list=PLM7DTyYjZGuLmg3f6j40fEF18jyQmY
 
 ## Prepare the notebook(s):
 
-https://deepxde.readthedocs.io/en/latest/index.html#
+https://deepxde.readthedocs.io/en/latest/demos/function/func.html
+
+https://deepxde.readthedocs.io/en/latest/demos/function/dataset.html
