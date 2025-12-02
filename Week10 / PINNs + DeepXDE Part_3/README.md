@@ -10,5 +10,9 @@ https://www.youtube.com/watch?v=wDUP2ezg870&list=PLM7DTyYjZGuLmg3f6j40fEF18jyQmY
 
 ## Prepare the notebook(s):
 
-https://deepxde.readthedocs.io/en/latest/index.html#
+https://deepxde.readthedocs.io/en/latest/demos/pinn_inverse/reaction.inverse.html
+
+https://deepxde.readthedocs.io/en/latest/demos/pinn_inverse/lorenz.inverse.html
+
+https://deepxde.readthedocs.io/en/latest/demos/pinn_inverse/diffusion.1d.inverse.html
 
