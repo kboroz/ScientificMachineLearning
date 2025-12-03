@@ -34,3 +34,7 @@ https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa
 
 https://www.youtube.com/playlist?list=PLculrkBWBFaAeFIBKzdghr3OnhyyfyAlO
 
+## Hands-on Intro to PINNs for solving PDEs from astrophysics and plasma physics
+
+https://github.com/hubertbaty/PINNS-PDE
+
