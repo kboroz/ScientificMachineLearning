@@ -12,6 +12,14 @@ https://www.rbnicsproject.org/tutorials.html
 
 https://github.com/chaos-polymtl/bio-pinn
 
+## LoDoPaB-CT Dataset - A Benchmark Dataset for Low-Dose CT Reconstruction Methods.
+
+https://zenodo.org/records/3384092
+
+## Untrained, Physics-Informed Neural Networks for Structured Illumination Microscopy
+
+https://github.com/Zach-T-Burns/Untrained-PINN-for-SIM
+
 # Finance
 
 ## When Physics Meets Finance: Using AI to Solve Black-Scholes
