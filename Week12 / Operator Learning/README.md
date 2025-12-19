@@ -8,6 +8,10 @@ https://www.youtube.com/watch?v=GwafvdfVeXY&list=PLqNNYrlmv01AnFNrjfQBqXB7saZfh2
 
 https://www.youtube.com/watch?v=xZ6VqX97lZU&list=PLqNNYrlmv01AnFNrjfQBqXB7saZfh2Hi7&index=15
 
+## Read the article:
+
+https://levelup.gitconnected.com/delve-deeper-into-fourier-neural-operator-explanation-and-use-case-for-simple-turbulence-cc70e93455e4
+
 ## Prepare the notebook(s):
 
 https://deepxde.readthedocs.io/en/latest/demos/operator/antiderivative_aligned.html
