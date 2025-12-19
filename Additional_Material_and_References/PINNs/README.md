@@ -38,3 +38,11 @@ https://www.youtube.com/playlist?list=PLculrkBWBFaAeFIBKzdghr3OnhyyfyAlO
 
 https://github.com/hubertbaty/PINNS-PDE
 
+## PhiFlow
+
+https://github.com/tum-pbs/PhiFlow
+
+## Autoregressive Conditional Diffusion Models for Turbulent Flow Simulation
+
+https://github.com/tum-pbs/autoreg-pde-diffusion
+
