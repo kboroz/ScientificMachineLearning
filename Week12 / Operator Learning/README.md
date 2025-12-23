@@ -20,3 +20,7 @@ https://deepxde.readthedocs.io/en/latest/demos/operator/poisson.1d.pideeponet.ht
 
 https://deepxde.readthedocs.io/en/latest/demos/operator/zcs.html
 
+https://github.com/lululxvi/deepxde/blob/master/examples/operator/diff_rec_unaligned_pideeponet.py
+
+https://github.com/lululxvi/deepxde/blob/master/examples/operator/diff_rec_aligned_pideeponet.py
+
