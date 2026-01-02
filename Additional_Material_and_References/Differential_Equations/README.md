@@ -26,3 +26,7 @@ https://www.youtube.com/playlist?list=PLLXsDm32L84iA9rhymai6-ms3EBSyIanA
 ## Partial Diffenrential Equations
 
 https://www.youtube.com/playlist?list=PLLXsDm32L84iOL0fCSIkkWG57LqKZl0OF
+
+## CFD Python, a.k.a. the 12 steps to Navier-Stokes
+
+https://github.com/barbagroup/CFDPython
